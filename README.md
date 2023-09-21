@@ -1,6 +1,7 @@
 # Dec 2 Bin
  
 ## Bienvenid@, tu que has descargado este repositorio de Github.com
+![alt text](https://extraconfidencial.com/wp-content/uploads/2021/02/codigo_binario.jpg)
 
 Te preguntarás, *¿qué hace este repositorio?* ***¿Cuál es su función?***
 Bien, pues yo te lo responderé, en esta maravillosa lista de aquí. 👇 
